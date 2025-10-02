@@ -1,0 +1,22 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment
+env/
+venv/
+*.venv/
+Scripts/
+*.egg-info/
+*.egg
+
+# TensorFlow/Keras models
+*.h5
+*.keras
+
+# Dataset files
+Filckr8k_Dataset/
+
+# IDE files
+.vscode/
+.idea/
