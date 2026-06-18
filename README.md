@@ -10,7 +10,6 @@ Generate natural-language captions for any image using a CNN + LSTM architecture
 
 Upload any photo and get back a generated sentence describing what's happening in it — e.g. *"a dog is running through the grass with a boy chasing it."*
 
-![demo screenshot placeholder]("C:\Users\myasw\OneDrive\Pictures\Screenshots\Screenshot 2026-06-18 140950.png")
 
 ## How it works
 
